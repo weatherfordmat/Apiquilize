@@ -6,6 +6,8 @@ Sequelize and its corresponding cli have made it easy to create models on the fl
 
 [Sequelize-restful](https://www.npmjs.com/package/sequelize-restful) creates a server that doesn't use the newest features of the cloud. Instead of having a server run all the time, we can create lambda functions which only run when called. Consequently, they are cheaper and more efficient.
 
+Likewise, [Epilogue](https://github.com/dchester/epilogue) is for express or restify apps.
+
 ## To use this:
 
 1. Zip the files:
