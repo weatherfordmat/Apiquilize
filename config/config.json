@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "pugsRule",
+    "database": "workmonger",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "WorkMonger1024",
+    "database": "testWM",
+    "host": "test-wm.cedtkkwikzv6.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

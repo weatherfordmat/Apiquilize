@@ -1,0 +1,17 @@
+{
+  "name": "database_api",
+  "version": "1.0.0",
+  "description": "api for crud methods on workmonger db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "M. B. Weatherford",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "path": "^0.12.7",
+    "sequelize": "^3.30.4"
+  }
+}
